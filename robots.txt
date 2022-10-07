@@ -1,0 +1,2 @@
+Allow: *
+Sitemap: https://fenerbahceplus.github.io/soupermeal/sitemap.xml
